@@ -14,7 +14,7 @@ Welcome to the MAUI project repository! This project is dedicated to enhancing i
 
 Below is a GIF showcasing the key functionality of our project:
 
-![MAUI Zoom Image Demo](https://github.com/1f6b62f9-997b-4f10-bcae-88e44e3e7b89)
+![MAUI Zoom Image Demo](https://github.com/regu0005/maui_image_zoom_feature/blob/main/image_popup_and_zoom/Resources/Gif/ImageZoom.gif)
 
 ## Getting Started
 
